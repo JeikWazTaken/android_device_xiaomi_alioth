@@ -438,4 +438,7 @@
         H 0
         Z
     </string>
+	
+	<!-- Whether device has a notch -->
+    <bool name="config_haveNotch">true</bool>
 </resources>
